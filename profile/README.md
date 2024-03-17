@@ -1,5 +1,4 @@
-![](lp_banniere_twitter_1500x500.png)
-
+![lp_banniere_twitter_1500x500](https://github.com/LeasyPeasy/.github/assets/141068179/4c112091-43e1-4337-840f-baf19e6ec456)
 
 ### LeasyPeasy a pour but de révolutionner la gestion locative en proposant aux gestionnaires un outil unique pour faciliter la gestion de leurs biens et aux locataires en les aidant à accéder aux biens à louer grâce aux candidatures simplifiées.
 
